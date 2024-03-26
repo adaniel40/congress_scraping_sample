@@ -7,7 +7,7 @@ import os
 
 
 #Set active directory
-os.chdir("/Users/aldendaniel/Documents/Python Projects/Witness Lists/Witness Output Tests/January")
+os.chdir("/Users/[user]/Documents/")
 
 
 #Set url of committee doc
