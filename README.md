@@ -6,3 +6,8 @@ This code is designed to work with documents from the following website:
 https://www.govinfo.gov/committee/house-agriculture?path=/browsecommittee/chamber/house/committee/agriculture/collection/CHRG/congress/118
 
 Click the text option for your selected hearing and then copy the URL directly into the code.
+
+You will need the following Python packages:
+urllib3
+pandas
+xlsxwriter
